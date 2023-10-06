@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LucasDanielWeb
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Oi eu sou @LucasDanielWeb
+- 👀 Tenho interesse em trabalhar com programação 
+- 🌱 Atualmente estou aprendendo HTML, CSS E JavaScript
+- 💞️ Procuro colaborar em um novo projeto que se alinhe com minha paixão por tecnologia
+- 📫Como chegar até mim vá no meu instagram  https://www.instagram.com/lucasdanielgm_/
 
 <!---
 LucasDanielWeb/LucasDanielWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
